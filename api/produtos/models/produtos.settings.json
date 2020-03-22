@@ -1,0 +1,20 @@
+{
+  "kind": "collectionType",
+  "connection": "default",
+  "collectionName": "produtos",
+  "info": {
+    "name": "produtos"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "nome": {
+      "type": "string"
+    },
+    "datainicial": {
+      "type": "date"
+    }
+  }
+}

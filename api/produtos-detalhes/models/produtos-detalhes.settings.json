@@ -1,0 +1,17 @@
+{
+  "kind": "singleType",
+  "connection": "default",
+  "collectionName": "produtos_detalhes",
+  "info": {
+    "name": "produtos_detalhes"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "detalhe": {
+      "type": "string"
+    }
+  }
+}

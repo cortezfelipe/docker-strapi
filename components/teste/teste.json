@@ -1,0 +1,15 @@
+{
+  "connection": "default",
+  "collectionName": "components_teste_testes",
+  "info": {
+    "name": "teste",
+    "icon": "allergies"
+  },
+  "options": {},
+  "attributes": {
+    "nome": {
+      "type": "string",
+      "unique": true
+    }
+  }
+}
